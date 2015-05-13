@@ -5,20 +5,21 @@ public class BulletController : MonoBehaviour {
 
     public float speed;
     private Rigidbody2D rigid;
+    public float damgeBullet;
 
 	// Use this for initialization
 	void Start () {
+        damgeBullet = 10;
         rigid = gameObject.GetComponent<Rigidbody2D>();
-	
+        rigid.velocity = new Vector2(speed, 0);
 	}
 	
 	// Update is called once per frame
 	void Update () {
-        Move();
 	}
     public void Move()
     {
-        rigid.velocity = new Vector2(speed, 0);
+        speed = -speed;
     }
     public void Destroy()
     {
