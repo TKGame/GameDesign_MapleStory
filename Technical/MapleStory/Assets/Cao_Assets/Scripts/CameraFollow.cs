@@ -46,7 +46,10 @@ public class CameraFollow : MonoBehaviour
 		// By default the target x and y coordinates of the camera are it's current x and y coordinates.
 		float targetX = transform.position.x;
 		float targetY = transform.position.y;
-
+        if(player ==null)
+        {
+            return;
+        }
 		// If the player has moved beyond the x margin...
 		if(CheckXMargin())
 			// ... the target x coordinate should be a Lerp between the camera's current x position and the player's current x position.

@@ -36,9 +36,14 @@ public class BossController : MonoBehaviour {
 	
 	public void FixedUpdate()
 	{
+        if (player == null)
+        {
+            return;
+        }
 		distanceX = Mathf.Abs( transform.position.x - player.transform.position.x);
 
         listCol = Physics2D.OverlapPointAll(redirect.position);
+
         foreach (Collider2D col in listCol)
         {
             if (col.gameObject.tag == "Player")

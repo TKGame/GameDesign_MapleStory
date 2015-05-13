@@ -89,6 +89,10 @@ public class EnemyController : MonoBehaviour {
     }
     void CheckPlayerRank()
     {
+        if(playerControl == null)
+        {
+            return;
+        }
         float distance = Mathf.Abs(transform.position.x - playerControl.transform.position.x);
         
         if (distance < 5.0f)

@@ -31,8 +31,13 @@ public class PlayerHealth : MonoBehaviour
 
 	void UpdateHealthBar ()
 	{
+        if (transfHealth == null)
+        {
+            return;
+        }
 		healthBar.color = Color.Lerp(Color.green, Color.red, 1 - health * 0.01f);
         healthBar.transform.localScale = new Vector3(health * 0.01f * 5, 1, 1);
+        
         transform.position = new Vector3(transfHealth.position.x, transfHealth.position.y, 0);
 
 	}
