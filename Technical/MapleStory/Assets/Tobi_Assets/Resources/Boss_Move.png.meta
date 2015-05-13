@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: f8c5c4141d7fa074cbc0602e4a8c6bd8
+timeCreated: 1430752150
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Boss_Move_0
+    21300002: Boss_Move_1
+    21300004: Boss_Move_2
+    21300006: Boss_Move_3
+    21300008: Boss_Move_4
+    21300010: Boss_Move_5
+    21300012: Boss_Move_6
+    21300014: Boss_Move_7
+    21300016: Boss_Move_8
+    21300018: Boss_Move_9
+    21300020: Boss_Move_10
+    21300022: Boss_Move_11
+    21300024: Boss_Move_12
+    21300026: Boss_Move_13
+    21300028: Boss_Move_14
+    21300030: Boss_Move_15
+    21300032: Boss_Move_16
+    21300034: Boss_Move_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Boss_Move_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 598
+        width: 323
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boss_Move_1
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 598
+        width: 323
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boss_Move_2
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 598
+        width: 323
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boss_Move_3
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 598
+        width: 323
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boss_Move_4
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 598
+        width: 323
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boss_Move_5
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 598
+        width: 323
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boss_Move_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 323
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boss_Move_7
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 299
+        width: 323
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boss_Move_8
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 299
+        width: 323
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boss_Move_9
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 299
+        width: 323
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boss_Move_10
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 299
+        width: 323
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boss_Move_11
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 299
+        width: 323
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boss_Move_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 323
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boss_Move_13
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 323
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boss_Move_14
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 323
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boss_Move_15
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 0
+        width: 323
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boss_Move_16
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 0
+        width: 323
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boss_Move_17
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 0
+        width: 323
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
