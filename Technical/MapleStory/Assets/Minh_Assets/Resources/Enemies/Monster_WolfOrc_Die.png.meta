@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 8bfa4426b3885194982d8085f80de54c
+timeCreated: 1430751838
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Monster_WolfOrc_Die_0
+    21300002: Monster_WolfOrc_Die_1
+    21300004: Monster_WolfOrc_Die_2
+    21300006: Monster_WolfOrc_Die_3
+    21300008: Monster_WolfOrc_Die_4
+    21300010: Monster_WolfOrc_Die_5
+    21300012: Monster_WolfOrc_Die_6
+    21300014: Monster_WolfOrc_Die_7
+    21300016: Monster_WolfOrc_Die_8
+    21300018: Monster_WolfOrc_Die_9
+    21300020: Monster_WolfOrc_Die_10
+    21300022: Monster_WolfOrc_Die_11
+    21300024: Monster_WolfOrc_Die_12
+    21300026: Monster_WolfOrc_Die_13
+    21300028: Monster_WolfOrc_Die_14
+    21300030: Monster_WolfOrc_Die_15
+    21300032: Monster_WolfOrc_Die_16
+    21300034: Monster_WolfOrc_Die_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Monster_WolfOrc_Die_0
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 341
+        width: 147
+        height: 175
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_WolfOrc_Die_1
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 343
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_WolfOrc_Die_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 171
+        width: 216
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_WolfOrc_Die_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 124
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_WolfOrc_Die_4
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 108
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_WolfOrc_Die_5
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 97
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_WolfOrc_Die_6
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 0
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_WolfOrc_Die_7
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 0
+        width: 117
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_WolfOrc_Die_8
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 341
+        width: 162
+        height: 175
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_WolfOrc_Die_9
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 342
+        width: 152
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_WolfOrc_Die_10
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 161
+        width: 224
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_WolfOrc_Die_11
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 164
+        width: 229
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_WolfOrc_Die_12
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 162
+        width: 102
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_WolfOrc_Die_13
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 166
+        width: 104
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_WolfOrc_Die_14
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 173
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_WolfOrc_Die_15
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 336
+        width: 243
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_WolfOrc_Die_16
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 345
+        width: 228
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_WolfOrc_Die_17
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 0
+        width: 115
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
